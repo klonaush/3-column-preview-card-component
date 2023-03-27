@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Github page](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3column-using-css-flexbox-6aAJdRbtqR)
+- Live Site URL: [Github page](https://klonaush.github.io/3-column-preview-card-component/)
 
 ## My process
 
