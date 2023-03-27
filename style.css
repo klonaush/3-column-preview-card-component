@@ -33,7 +33,7 @@ main {
     padding: 3.2em;
 }
 
-.container h1 {
+.container h2 {
     color: hsl(0, 0%, 95%);
     text-transform: uppercase;
     margin: .6em 0;
