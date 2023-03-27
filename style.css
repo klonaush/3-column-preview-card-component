@@ -100,4 +100,8 @@ main {
         flex-direction: column;
         margin: 3em 1em;
     }
+
+    .attribution {
+        margin-bottom: 1em;
+    }
 }
